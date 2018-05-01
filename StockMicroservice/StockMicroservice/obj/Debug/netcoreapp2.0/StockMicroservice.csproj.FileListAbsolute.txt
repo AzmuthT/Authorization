@@ -1,0 +1,10 @@
+D:\Rider\StockMicroservice\StockMicroservice\bin\Debug\netcoreapp2.0\StockMicroservice.deps.json
+D:\Rider\StockMicroservice\StockMicroservice\bin\Debug\netcoreapp2.0\StockMicroservice.runtimeconfig.json
+D:\Rider\StockMicroservice\StockMicroservice\bin\Debug\netcoreapp2.0\StockMicroservice.runtimeconfig.dev.json
+D:\Rider\StockMicroservice\StockMicroservice\bin\Debug\netcoreapp2.0\StockMicroservice.dll
+D:\Rider\StockMicroservice\StockMicroservice\bin\Debug\netcoreapp2.0\StockMicroservice.pdb
+D:\Rider\StockMicroservice\StockMicroservice\obj\Debug\netcoreapp2.0\StockMicroservice.csproj.CoreCompileInputs.cache
+D:\Rider\StockMicroservice\StockMicroservice\obj\Debug\netcoreapp2.0\StockMicroservice.AssemblyInfoInputs.cache
+D:\Rider\StockMicroservice\StockMicroservice\obj\Debug\netcoreapp2.0\StockMicroservice.AssemblyInfo.cs
+D:\Rider\StockMicroservice\StockMicroservice\obj\Debug\netcoreapp2.0\StockMicroservice.dll
+D:\Rider\StockMicroservice\StockMicroservice\obj\Debug\netcoreapp2.0\StockMicroservice.pdb

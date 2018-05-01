@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\thoma\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_StockSite.-2018121584.00" t="ExcludeRecursive" />
+    <e p="D:\Rider\StockSite" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="StockSite" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ClientApp" t="Include">
+          <e p="_shared" t="Include">
+            <e p="constants.ts" t="Include" />
+            <e p="httpHelper.ts" t="Include" />
+          </e>
+          <e p="boot.ts" t="Include" />
+          <e p="components" t="Include">
+            <e p="app-root" t="Include">
+              <e p="app-root.html" t="Include" />
+              <e p="app-root.ts" t="Include" />
+            </e>
+            <e p="counter-example" t="Include">
+              <e p="counter-example.html" t="Include" />
+              <e p="counter-example.ts" t="Include" />
+            </e>
+            <e p="fetch-data" t="Include">
+              <e p="fetch-data.html" t="Include" />
+              <e p="fetch-data.ts" t="Include" />
+            </e>
+            <e p="home-page" t="Include">
+              <e p="home-page.html" t="Include" />
+              <e p="home-page.ts" t="Include" />
+            </e>
+            <e p="nav-menu" t="Include">
+              <e p="nav-menu.html" t="Include" />
+              <e p="nav-menu.ts" t="Include" />
+            </e>
+            <e p="values" t="Include">
+              <e p="Test.ts" t="Include" />
+              <e p="values.html" t="Include" />
+              <e p="values.ts" t="Include" />
+            </e>
+          </e>
+          <e p="css" t="Include">
+            <e p="site.css" t="Include" />
+          </e>
+          <e p="router.ts" t="Include" />
+          <e p="webpack-component-loader.ts" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="HomeController.cs" t="Include" />
+          <e p="SampleDataController.cs" t="Include" />
+        </e>
+        <e p="npm-shrinkwrap.json" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="StockSite.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="package.json" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Startup.cs" t="Include" />
+        <e p="StockSite.csproj" t="IncludeRecursive" />
+        <e p="tsconfig.json" t="Include" />
+        <e p="Views" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Home" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="Error.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="webpack.config.js" t="Include" />
+        <e p="webpack.config.vendor.js" t="Include" />
+        <e p="wwwroot" t="Include">
+          <e p="dist" t="Include">
+            <e p="0.js" t="Include" />
+            <e p="0.js.map" t="Include" />
+            <e p="1.js" t="Include" />
+            <e p="1.js.map" t="Include" />
+            <e p="2.js" t="Include" />
+            <e p="2.js.map" t="Include" />
+            <e p="3.js" t="Include" />
+            <e p="3.js.map" t="Include" />
+            <e p="4.js" t="Include" />
+            <e p="4.js.map" t="Include" />
+            <e p="89889688147bd7575d6327160d64e760.svg" t="Include" />
+            <e p="main.js" t="Include" />
+            <e p="main.js.map" t="Include" />
+            <e p="vendor-manifest.json" t="Include" />
+            <e p="vendor.css" t="Include" />
+            <e p="vendor.js" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+        </e>
+      </e>
+      <e p="StockSite.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

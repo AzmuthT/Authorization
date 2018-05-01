@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockMicroservice", "StockMicroservice\StockMicroservice.csproj", "{3ACE0F74-59C4-42AE-8832-C76E2B624956}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ACE0F74-59C4-42AE-8832-C76E2B624956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ACE0F74-59C4-42AE-8832-C76E2B624956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ACE0F74-59C4-42AE-8832-C76E2B624956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ACE0F74-59C4-42AE-8832-C76E2B624956}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+<p>We are going to show the values in here</p>
+<input type="text" data-bind="value: values"/>
+
+<input type="text" data-bind="value: values"></input>
+
+
+<table class='table' data-bind='if: tests'>
+    <thead>
+    <tr>
+        <th>x</th>
+        <th>y</th>
+    </tr>
+    </thead>
+    <tbody data-bind='foreach: tests'>
+    <tr>
+        <td data-bind='text: x'></td>
+        <td data-bind='text: y'></td>
+    </tr>
+    </tbody>
+</table>
+
+
+<button data-bind="click: login">Login</button>
+
+<button data-bind="click: loadData">LoadData</button>

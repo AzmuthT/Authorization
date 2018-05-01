@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25ffa080-b5b2-456e-a247-f952f006c9b0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StockMicroservice/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="60" column="36" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
+              <folding>
+                <marker date="1525098740201" expanded="true" signature="6:401" ph="..." />
+                <marker date="1525098740201" expanded="true" signature="457:2482" ph="{...}" />
+                <marker date="1525098740201" expanded="true" signature="578:641" ph="{...}" />
+                <marker date="1525098740201" expanded="true" signature="659:874" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+                <marker date="1525098740201" expanded="true" signature="941:1956" ph="{...}" />
+                <marker date="1525098740201" expanded="true" signature="1071:1694" ph="{...}" />
+                <marker date="1525098740201" expanded="true" signature="1196:1675" ph="{...}" />
+                <marker date="1525098740201" expanded="true" signature="1797:1943" ph="{...}" />
+                <marker date="1525098740201" expanded="true" signature="2144:2476" ph="{...}" />
+                <marker date="1525098740201" expanded="true" signature="2191:2268" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StockMicroservice/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValuesController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StockMicroservice/Controller/ValuesController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <folding>
+                <marker date="1525098776076" expanded="false" signature="6:107" ph="..." />
+                <marker date="1525098776076" expanded="true" signature="147:850" ph="{...}" />
+                <marker date="1525098776076" expanded="true" signature="269:743" ph="{...}" />
+                <marker date="1525098776076" expanded="true" signature="327:373" ph="{...}" />
+                <marker date="1525098776076" expanded="true" signature="445:636" ph="{...}" />
+                <marker date="1525098776076" expanded="true" signature="691:737" ph="{...}" />
+                <marker date="1525098776076" expanded="true" signature="766:848" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TokenController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/StockMicroservice/Controller/TokenController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="73" column="13" lean-forward="true" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+              <folding>
+                <marker date="1525176858908" expanded="true" signature="6:308" ph="..." />
+                <marker date="1525176858908" expanded="true" signature="348:2707" ph="{...}" />
+                <marker date="1525176858908" expanded="true" signature="453:2705" ph="{...}" />
+                <marker date="1525176858908" expanded="true" signature="614:664" ph="{...}" />
+                <marker date="1525176858908" expanded="true" signature="779:1133" ph="{...}" />
+                <marker date="1525176858908" expanded="true" signature="917:1093" ph="{...}" />
+                <marker date="1525176858908" expanded="true" signature="1170:1641" ph="{...}" />
+                <marker date="1525176858908" expanded="true" signature="1699:1977" ph="{...}" />
+                <marker date="1525176858908" expanded="true" signature="1818:1941" ph="{...}" />
+                <marker date="1525176858908" expanded="true" signature="2052:2352" ph="{...}" />
+                <marker date="1525176858908" expanded="true" signature="2188:2342" ph="{...}" />
+                <marker date="1525176858908" expanded="true" signature="2385:2503" ph="{...}" />
+                <marker date="1525176858908" expanded="true" signature="2536:2699" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StockMicroservice/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <folding>
+                <marker date="1524856464845" expanded="false" signature="6:255" ph="..." />
+                <marker date="1524856464845" expanded="true" signature="311:603" ph="{...}" />
+                <marker date="1524856464845" expanded="true" signature="364:422" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/StockSite/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StockSite/Views/Shared/Error.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StockSite/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StockMicroservice/Controller/TokenController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/882C7DDC-3607-4EF5-A584-61262F32B442/62/f4899f6f/HttpGetAttribute.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/StockMicroservice/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StockMicroservice/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StockMicroservice/Controller/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StockSite/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StockSite/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/StockMicroservice/Program.cs" />
+        <option value="$PROJECT_DIR$/StockMicroservice/Controller/Values.cs" />
+        <option value="$PROJECT_DIR$/StockMicroservice/appsettings.json" />
+        <option value="$PROJECT_DIR$/StockMicroservice/Startup.cs" />
+        <option value="$PROJECT_DIR$/StockMicroservice/Controller/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/StockMicroservice/Controller/TokenController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="405" />
+    <option name="y" value="60" />
+    <option name="width" value="1750" />
+    <option name="height" value="1250" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StockMicroservice (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StockMicroservice (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StockMicroservice" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StockMicroservice (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StockMicroservice" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controller" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StockSite/StockSite.sln" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="StockMicroservice: 5001" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/StockMicroservice/bin/Debug/netcoreapp2.0/StockMicroservice.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StockMicroservice" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5001" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/StockMicroservice/StockMicroservice.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5001" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25ffa080-b5b2-456e-a247-f952f006c9b0" name="Default" comment="" />
+      <created>1524855574874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524855574874</updated>
+      <workItem from="1524855576634" duration="3804000" />
+      <workItem from="1524863820068" duration="180000" />
+      <workItem from="1525073977428" duration="669000" />
+      <workItem from="1525075632034" duration="2398000" />
+      <workItem from="1525078101928" duration="5125000" />
+      <workItem from="1525164536683" duration="6716000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18892000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32929292" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32929292" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2979798" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32929292" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17732267" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32929292" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.33434343" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="36" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
+          <folding>
+            <marker date="1525098740201" expanded="true" signature="6:401" ph="..." />
+            <marker date="1525098740201" expanded="true" signature="457:2482" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="578:641" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="659:874" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1525098740201" expanded="true" signature="941:1956" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1071:1694" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1196:1675" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1797:1943" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="2144:2476" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="2191:2268" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/882C7DDC-3607-4EF5-A584-61262F32B442/62/f4899f6f/HttpGetAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <marker date="1524856464845" expanded="false" signature="6:255" ph="..." />
+            <marker date="1524856464845" expanded="true" signature="311:603" ph="{...}" />
+            <marker date="1524856464845" expanded="true" signature="364:422" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Controller/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <marker date="1525098776076" expanded="false" signature="6:107" ph="..." />
+            <marker date="1525098776076" expanded="true" signature="147:850" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="269:743" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="327:373" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="445:636" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="691:737" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="766:848" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <marker date="1525098740201" expanded="true" signature="6:401" ph="..." />
+            <marker date="1525098740201" expanded="true" signature="457:2482" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="578:641" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="659:874" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1525098740201" expanded="true" signature="941:1956" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1071:1694" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1196:1675" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1797:1943" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="2144:2476" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="2191:2268" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <marker date="1524856464845" expanded="false" signature="6:255" ph="..." />
+            <marker date="1524856464845" expanded="true" signature="311:603" ph="{...}" />
+            <marker date="1524856464845" expanded="true" signature="364:422" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Controller/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <marker date="1525098776076" expanded="false" signature="6:107" ph="..." />
+            <marker date="1525098776076" expanded="true" signature="147:850" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="269:743" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="327:373" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="445:636" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="691:737" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="766:848" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <marker date="1525098740201" expanded="true" signature="6:401" ph="..." />
+            <marker date="1525098740201" expanded="true" signature="457:2482" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="578:641" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="659:874" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1525098740201" expanded="true" signature="941:1956" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1071:1694" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1196:1675" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1797:1943" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="2144:2476" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="2191:2268" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <marker date="1524856464845" expanded="false" signature="6:255" ph="..." />
+            <marker date="1524856464845" expanded="true" signature="311:603" ph="{...}" />
+            <marker date="1524856464845" expanded="true" signature="364:422" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Controller/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <marker date="1525098776076" expanded="false" signature="6:107" ph="..." />
+            <marker date="1525098776076" expanded="true" signature="147:850" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="269:743" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="327:373" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="445:636" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="691:737" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="766:848" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <marker date="1525098740201" expanded="true" signature="6:401" ph="..." />
+            <marker date="1525098740201" expanded="true" signature="457:2482" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="578:641" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="659:874" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1525098740201" expanded="true" signature="941:1956" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1071:1694" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1196:1675" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1797:1943" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="2144:2476" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="2191:2268" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <marker date="1524856464845" expanded="false" signature="6:255" ph="..." />
+            <marker date="1524856464845" expanded="true" signature="311:603" ph="{...}" />
+            <marker date="1524856464845" expanded="true" signature="364:422" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Controller/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <marker date="1525098776076" expanded="false" signature="6:107" ph="..." />
+            <marker date="1525098776076" expanded="true" signature="147:850" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="269:743" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="327:373" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="445:636" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="691:737" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="766:848" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <marker date="1525098740201" expanded="true" signature="6:401" ph="..." />
+            <marker date="1525098740201" expanded="true" signature="457:2482" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="578:641" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="659:874" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1525098740201" expanded="true" signature="941:1956" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1071:1694" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1196:1675" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1797:1943" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="2144:2476" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="2191:2268" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <marker date="1524856464845" expanded="false" signature="6:255" ph="..." />
+            <marker date="1524856464845" expanded="true" signature="311:603" ph="{...}" />
+            <marker date="1524856464845" expanded="true" signature="364:422" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Controller/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <marker date="1525098776076" expanded="false" signature="6:107" ph="..." />
+            <marker date="1525098776076" expanded="true" signature="147:850" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="269:743" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="327:373" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="445:636" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="691:737" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="766:848" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockSite/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <marker date="1524856464845" expanded="false" signature="6:255" ph="..." />
+            <marker date="1524856464845" expanded="true" signature="311:603" ph="{...}" />
+            <marker date="1524856464845" expanded="true" signature="364:422" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="36" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
+          <folding>
+            <marker date="1525098740201" expanded="true" signature="6:401" ph="..." />
+            <marker date="1525098740201" expanded="true" signature="457:2482" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="578:641" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="659:874" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1525098740201" expanded="true" signature="941:1956" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1071:1694" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1196:1675" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="1797:1943" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="2144:2476" ph="{...}" />
+            <marker date="1525098740201" expanded="true" signature="2191:2268" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Controller/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <marker date="1525098776076" expanded="false" signature="6:107" ph="..." />
+            <marker date="1525098776076" expanded="true" signature="147:850" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="269:743" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="327:373" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="445:636" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="691:737" ph="{...}" />
+            <marker date="1525098776076" expanded="true" signature="766:848" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/882C7DDC-3607-4EF5-A584-61262F32B442/62/f4899f6f/HttpGetAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockMicroservice/Controller/TokenController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="73" column="13" lean-forward="true" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+          <folding>
+            <marker date="1525176858908" expanded="true" signature="6:308" ph="..." />
+            <marker date="1525176858908" expanded="true" signature="348:2707" ph="{...}" />
+            <marker date="1525176858908" expanded="true" signature="453:2705" ph="{...}" />
+            <marker date="1525176858908" expanded="true" signature="614:664" ph="{...}" />
+            <marker date="1525176858908" expanded="true" signature="779:1133" ph="{...}" />
+            <marker date="1525176858908" expanded="true" signature="917:1093" ph="{...}" />
+            <marker date="1525176858908" expanded="true" signature="1170:1641" ph="{...}" />
+            <marker date="1525176858908" expanded="true" signature="1699:1977" ph="{...}" />
+            <marker date="1525176858908" expanded="true" signature="1818:1941" ph="{...}" />
+            <marker date="1525176858908" expanded="true" signature="2052:2352" ph="{...}" />
+            <marker date="1525176858908" expanded="true" signature="2188:2342" ph="{...}" />
+            <marker date="1525176858908" expanded="true" signature="2385:2503" ph="{...}" />
+            <marker date="1525176858908" expanded="true" signature="2536:2699" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
