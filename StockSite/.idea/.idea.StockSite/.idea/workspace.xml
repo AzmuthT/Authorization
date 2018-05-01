@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c87673c-0480-4da3-b8a0-387384f710c3" name="Default" comment="" />
+    <list default="true" id="9c87673c-0480-4da3-b8a0-387384f710c3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/StockSite/ClientApp/_shared/httpHelper.ts" beforeDir="false" afterPath="$PROJECT_DIR$/StockSite/ClientApp/_shared/httpHelper.ts" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/StockSite/ClientApp/_shared/httpHelper.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="421">
-              <caret line="39" column="76" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="76" />
+              <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -148,6 +150,9 @@
       <find>in</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/StockSite/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/StockSite/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -191,6 +196,7 @@
     <option name="width" value="1750" />
     <option name="height" value="1250" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -324,12 +330,12 @@
       <updated>1525077910539</updated>
       <workItem from="1525077911684" duration="163000" />
       <workItem from="1525078167703" duration="11799000" />
-      <workItem from="1525164568698" duration="8411000" />
+      <workItem from="1525164568698" duration="8678000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20373000" />
+    <option name="totallyTimeSpent" value="20640000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -342,6 +348,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -350,7 +357,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="REST Client" order="8" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32929292" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="bottom" id="TypeScript" order="8" />
@@ -692,7 +699,7 @@
     <entry file="file://$PROJECT_DIR$/StockSite/ClientApp/_shared/httpHelper.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="421">
-          <caret line="39" column="76" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="76" />
+          <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>

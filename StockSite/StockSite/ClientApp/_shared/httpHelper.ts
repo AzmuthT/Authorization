@@ -37,7 +37,7 @@ export module HttpHelper {
             },
             url: Constants.REFRESH_TOKEN_URL,
             method: 'POST',
-            data: JSON.stringify({"username": username, "password": password}),
+            data: JSON.stringify({}),//TODO
             success: data => {
                 localStorage.setItem("BearerAuthorizationKey", "Bearer " + data.token);
                 onsuccess(data);

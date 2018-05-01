@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25ffa080-b5b2-456e-a247-f952f006c9b0" name="Default" comment="" />
+    <list default="true" id="25ffa080-b5b2-456e-a247-f952f006c9b0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../StockSite/StockSite/ClientApp/_shared/httpHelper.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../StockSite/StockSite/ClientApp/_shared/httpHelper.ts" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,6 +101,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/StockSite/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/StockSite/Views/Shared/Error.cshtml" root0="FORCE_HIGHLIGHTING" />
@@ -135,6 +140,7 @@
     <option name="width" value="1750" />
     <option name="height" value="1250" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -221,12 +227,12 @@
       <workItem from="1525073977428" duration="669000" />
       <workItem from="1525075632034" duration="2398000" />
       <workItem from="1525078101928" duration="5125000" />
-      <workItem from="1525164536683" duration="6716000" />
+      <workItem from="1525164536683" duration="7083000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18892000" />
+    <option name="totallyTimeSpent" value="19259000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -239,6 +245,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32929292" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -247,7 +254,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="REST Client" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32929292" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.2979798" />
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.32929292" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17732267" />
